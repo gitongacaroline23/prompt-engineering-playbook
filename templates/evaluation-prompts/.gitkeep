@@ -1,1 +1,10 @@
+prompt-engineering-playbook
 
+├── frameworks/
+├── templates/
+├── few-shot-examples/
+├── chain-of-thought/
+├── system-prompts/
+├── evaluation-prompts/
+├── README.md
+└── .gitignore
